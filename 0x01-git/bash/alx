@@ -1,1 +1,5 @@
-echo ALX
+#!/bin/bash
+echo "ALX"
+
+clear
+root@4b9fc338e467:/alx-pre_course/0x01-git/bash# cat > school
